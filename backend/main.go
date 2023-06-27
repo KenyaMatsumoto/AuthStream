@@ -13,8 +13,8 @@ import (
 
 const (
 	port     = 8000
-	domain   = "<AUTH0_DOMAIN>"
-	clientID = "<AUTH0_CLIENT_ID>"
+	domain   = ""
+	clientID = ""
 )
 
 func main() {

@@ -6,7 +6,7 @@ import (
 	"net/http"
 )
 
-// JKWS向けの構造体定義
+// JWKS向けの構造体定義
 type JSONWebKeys struct {
 	Kty string   `json:"kty"`
 	Kid string   `json:"kid"`

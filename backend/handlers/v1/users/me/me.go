@@ -16,9 +16,9 @@ type User struct {
 
 var (
 	subToUsers = map[string]User{
-		"auth0|61a8178b21127500715968e2": {
+		"auth0|hogehoge": {
 			Name: "hoge",
-			Age:  15,
+			Age:  25,
 		},
 	}
 )
